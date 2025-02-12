@@ -66,6 +66,7 @@ He podido crear un anuncio que lo he puesto al acabar el post, gracias al plugin
 
 ## Apariencia
 El tema que he utilizado para mi página principal ha sido el tema Book Shop.
+
 ![text alternatiu](24.png)
 
 ## Menús 
