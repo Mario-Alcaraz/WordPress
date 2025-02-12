@@ -11,3 +11,5 @@ Esta página la he decidido llamar como PitStop F1, para mi un nombre muy bueno 
 Más abajo, encontramos la categoria en donde subo mis publicaciones, en este apartado encontramos las 9 últimas entradas de mi pagina web, en las publicaciones he subido un poco de todo, hay desde noticias sobre equipos en concreto y sobre la Fórmula 1 en general, como por ejemplo, hice un post en donde informaba sobre todos los pilotos que estaran compitiendo en el gran circo este año, desde curiosidades de los campeones del mundo e incluso, a que equipo de fútbol apoyan algunos de los pilotos de Fórmula 1, como vereis abajo en el post del centro donde se ve a Carlos Sainz con la camiseta del Real Madrid.
 
 ![text alternatiu](2.png)
+
+Más abajo encontramos todas las categorias de mi pagina, en donde si clicas en una categoria, te lleva a todos los posts relacionados a ese categoria.
