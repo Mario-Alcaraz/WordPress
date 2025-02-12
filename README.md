@@ -13,3 +13,13 @@ Más abajo, encontramos la categoria en donde subo mis publicaciones, en este ap
 ![text alternatiu](2.png)
 
 Más abajo encontramos todas las categorias de mi pagina, en donde si clicas en una categoria, te lleva a todos los posts relacionados a ese categoria.
+
+![text alternatiu](5.png)
+
+Por ejemplo vamos a entrar en los posts de la categoria Aston Martin.
+
+![text alternatiu](6.png)
+
+Como vemos, nos encontramos con dos posts en donde se explica un poco sobre sus cambios para poder luchar por grandes cosas a futuro.
+
+
