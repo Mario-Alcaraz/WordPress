@@ -31,10 +31,47 @@ Además, gracias al plugin Polylang, he podido hacer que todas mis paginas y pub
 Como veis todo está completamente traducido al inglés, incluso las paginas en donde explicamos cosas sobre nosotros, por ejemplo, nuestra ubicación.
 ![text alternatiu](9.png)
 ![text alternatiu](8.png)
+## Posts 
+He creado un total de 30 posts, como antes expliqué, tenia toda mi página traducida al inglés, por ende, he creado los posts tanto en español como en inglés, 15 de cada idioma.
+![text alternatiu](10.png)
+
+![text alternatiu](11.png)
 
 
+Además de esto, uno de estos posts está programado para una fecha estimada, en este caso, una de las noticias de Aston Martin, que está programada para el 14 de Febrero
+![text alternatiu](12.png)
 
+Finalmente, uno de mis posts, en este caso, en el que digo Curiosidades sobre Lewis Hamilton, he puesto modificadores HTML, en este caso he puesto <b>, antes de los titulos y </b> después de estos, para que estos se vean en negrita en la página.
+![text alternatiu](13.png)
+![text alternatiu](14.png)
+## Categorías
+He creado un total de 2 categorías con 12 subcategorías, estas están tanto en español como en inglés.
+Estas categorias eran Curiosidades y noticias y las subcaegorías son todos los equipos de Fórmula 1, incluyendo al equipo Cadillac, que se incorporará en 2026, y la categoría General.
+![text alternatiu](15.png)
+![text alternatiu](16.png)
 
+## Páginas
+He hecho un total de 4 páginas en cada idioma, 8 en total, incluido un formulario de contacto, gracias al plugin Contact Form 7, además de poner una ubicación con el plugin OSM, en la página Nuestra Ubicación.
+![text alternatiu](17.png)
+![text alternatiu](18.png)
+![text alternatiu](19.png)
+
+## Anuncios 
+He podido crear un anuncio que lo he puesto al acabar el post, gracias al plugin Advanced Ads, en este caso, he puesto un anuncio para conseguir entradas para el GP de España en el Circuito de Barcelona-Cataluña, y además, si clicas el enlace que te sale en el anuncio, llegarás a la página oficial del circuito para comprar entradas.
+
+![text alternatiu](20.png)
+![text alternatiu](21.png)
+![text alternatiu](22.png)
+![text alternatiu](23.png)
+
+## Apariencia
+El tema que he utilizado para mi página principal ha sido el tema Book Shop.
+![text alternatiu](24.png)
+
+## Menús 
+En el apartado de Apariencia, más especificamente en Menús, he creado dos menús para mi página principal, uno en inglés y uno en español.
+![text alternatiu](25.png)
+![text alternatiu](26.png)
 
 
 
