@@ -74,6 +74,25 @@ En el apartado de Apariencia, más especificamente en Menús, he creado dos men�
 ![text alternatiu](25.png)
 ![text alternatiu](26.png)
 
+## Plugins
+En total tengo 5 plugins, que me han ayudado a la hora de hacer mi trabajo, en este apartado comentaré de que me ha servido cada uno.
+Classic Editor me ha ayudado mucho a la hora de crear mis posts, con este editor me ha sido mucho más fácil editar mis publicaciones
+OSM me ha ayudado a poner la ubicación de la empresa correctamente.
+Polylang me ha ayudado a poner la página en varios idiomas.
+Contact Form 7 me ha ayudado a poder crear un formulario de contacto en mi página web.
+Advanced Ads me ha ayudado a poder crear anuncios dentro de mi página web.
+![text alternatiu](27.png)
+
+
+## Usuarios
+Finalmente hablaré sobre los usuarios que he creado en mi página, a cada usuario le he asignado un rol distinto.
+He creado estos usuarios:
+Carlos Sainz, que es Autor
+David Perogil, que es Editor
+Fernando Marulo, que es Suscriptor
+Manolo Gonzalez, que es Colaborador
+![text alternatiu](28.png)
+
 
 
 
