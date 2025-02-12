@@ -22,4 +22,22 @@ Por ejemplo vamos a entrar en los posts de la categoria Aston Martin.
 
 Como vemos, nos encontramos con dos posts en donde se explica un poco sobre sus cambios para poder luchar por grandes cosas a futuro.
 
+## Páginas en mi página principal
+De nuevo al inicio de mi página, arriba a la derecha tenemos otras cosas sobre nuestra pagina, por ejemplo, sobre nosotros, nuestra política de privacidad, nuestra ubicación, nuestro formulario de contacto y nuestras dos categorias más importantes que son la de Curiosidades y la de Noticias y dentro de esta categoria he puesto como subcategorias a todos los equipos de la parrilla y una categoria llamada general en donde hablo de cosas relacionadas a todos los equipos o solo a la propia F1 sin incluir a los equipos.
+![text alternatiu](3.png)
+Además, gracias al plugin Polylang, he podido hacer que todas mis paginas y publicaciones se puedan ver en inglés.
+![text alternatiu](4.png)
+![text alternatiu](7.png)
+Como veis todo está completamente traducido al inglés, incluso las paginas en donde explicamos cosas sobre nosotros, por ejemplo, nuestra ubicación.
+![text alternatiu](9.png)
+![text alternatiu](8.png)
+
+
+
+
+
+
+
+
+
 
