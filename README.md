@@ -3,8 +3,8 @@
 Desde diciembre, he empezado un proyecto en WordPress, donde he podido hacer muchas opciones gracias a WordPress, sinceramente, el proyecto me ha gustado mucho, sobre todo porque lo he hecho del tema que más me gusta, la Fórmula 1, a continuación os explicaré todo lo que he hecho junto a WordPress.
 
 ## Página Principal
-Creo que la mejor manera de arrancar este repositorio, es hablando sobre la página principal, en esta página podemos encontrar toda la información creada por mí, tanto las páginas, los posts como las categorías.
-Esta página la he decidido llamar como PitStop F1.
+Creo que la mejor manera de arrancar este repositorio, es hablando sobre la página principal, en esta página podemos encontrar toda la información creada por mí: Páginas, posts, categorías y más.
+Esta página la he decidido llamar PitStop F1.
 
 ![text alternatiu](1.png)
 
@@ -73,6 +73,7 @@ El tema que he utilizado para mi página principal ha sido el tema Book Shop.
 
 ## Menús 
 En el apartado de Apariencia, más específicamente, en Menús, he creado dos menús para mi página principal, uno en inglés y uno en español.
+
 ![text alternatiu](25.png)
 ![text alternatiu](26.png)
 
