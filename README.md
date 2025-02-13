@@ -42,7 +42,7 @@ He creado un total de 30 posts, como antes expliqué, tenía toda mi página tra
 Además de esto, uno de estos posts está programado para una fecha estimada, en este caso, una de las noticias de Aston Martin, que está programada para el 14 de febrero.
 ![text alternatiu](12.png)
 
-Finalmente, uno de mis posts, en este caso, en el que digo Curiosidades sobre Lewis Hamilton, he puesto modificadores HTML, en este caso he puesto <b>, antes de los títulos y </b> después de estos, para que estos se vean en negrita en la página.
+Finalmente, uno de mis posts, en este caso, en el que digo Curiosidades sobre Lewis Hamilton, he puesto modificadores HTML, en este caso he puesto < b >, antes de los títulos y < /b > después de estos, para que estos se vean en negrita en la página.
 ![text alternatiu](13.png)
 ![text alternatiu](14.png)
 ## Categorías
