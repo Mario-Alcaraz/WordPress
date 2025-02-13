@@ -79,11 +79,17 @@ En el apartado de Apariencia, más específicamente, en Menús, he creado dos me
 
 ## Plugins
 En total tengo 5 plugins, que me han ayudado a la hora de hacer mi trabajo, en este apartado comentaré para que me ha servido cada uno.
+
 Classic Editor me ha ayudado mucho a la hora de crear mis posts, con este editor me ha sido mucho más fácil editar mis publicaciones
+
 OSM me ha ayudado a poner la ubicación de la empresa correctamente.
+
 Polylang me ha ayudado a poner la página en varios idiomas.
+
 Contact Form 7 me ha ayudado a poder crear un formulario de contacto en mi página web.
+
 Advanced Ads me ha ayudado a poder crear anuncios dentro de mi página web.
+
 ![text alternatiu](27.png)
 
 
